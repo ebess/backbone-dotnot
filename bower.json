@@ -1,0 +1,10 @@
+{
+  "name": "backbone-dotnot",
+  "version": "0.0.1",
+  "main": "backbone-dotnot.js",
+  "ignore": [],
+  "dependencies": {
+    "backbone": "*",
+    "underscore": "*"
+  }
+}
